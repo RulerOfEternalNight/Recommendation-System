@@ -5,14 +5,14 @@
 Recommendation system
     |
     |
-    -----> CF
+    |-----> CF
     |      |
     |      ------> Memory based
     |      |
     |      ------> Model based
     |
     |
-    -----> Content Based Filtering
+    |-----> Content Based Filtering
 ```
 
 ### Dataset: [Dataset link](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset)
