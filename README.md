@@ -6,10 +6,10 @@ Recommendation system
     |
     |
     |-----> CF
-    |      |
-    |      ------> Memory based
-    |      |
-    |      ------> Model based
+    |       |
+    |       |------> Memory based
+    |       |
+    |       |------> Model based
     |
     |
     |-----> Content Based Filtering
