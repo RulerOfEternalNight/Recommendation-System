@@ -5,7 +5,7 @@
 Recommendation system
     |
     |
-    |-----> CF
+    |-----> Collabrative Filtering
     |       |
     |       |------> Memory based
     |       |
