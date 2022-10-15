@@ -9,9 +9,9 @@ Recommendation system
     |
     |-----> Collaborative filtering
     |       |
-    |       |------> User-User collaborative filtering
+    |       |------> User-User collaborative filtering : User-Item Collaborative Filtering : “Users who are similar to you also liked …”
     |       |
-    |       |------>Item-Item collaborative filtering
+    |       |------>Item-Item collaborative filtering : “Users who liked this item also liked …”
     |
     |
     |-----> Content Based Filtering
